@@ -8,5 +8,5 @@ class Solution:
                 table[nums[i]] = nums[i]
         # use set()
         #if not nums:
-			  #  return False
-		    #return len(set(nums)) != len(nums)
+	#  return False
+	#return len(set(nums)) != len(nums)
